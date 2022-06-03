@@ -11,18 +11,56 @@ hr{
   width: 25%;
 }
 p{
-  text-align: center;
-  margin: auto;
-  font-size: 200%;
+  margin-left: 100px;
+  font-size: 150%;
   color: #424874;
   font-family:sans-serif;
   font-weight: 700;
 }
 
 h1{
-  text-align: center;
-  margin: auto;
+  margin-left: 100px;
   font-family:sans-serif;
   font-size: 300%;
-  color:424874;
+  color:#424874;
+}
+table{
+  margin-left: 100px;
+}
+
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #DCD6F7;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #DCD6F7;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #424874;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.circular
+{
+  border-radius: 100%;
+}
+
+.name{
+  color: red;
+}
+
+#experience{
+  color: blue;
 }
