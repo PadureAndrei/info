@@ -1,3 +1,12 @@
 body{
   background-color:#F0F5F9;
+  margin: 0;
+}
+
+div{
+  background-color:#52616B;
+}
+
+h1{
+  margin-top: 0;
 }

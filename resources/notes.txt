@@ -1,0 +1,16 @@
+
+/////////////////////////// COLORS ///////////////////////////
+https://colorhunt.co/palette/f0f5f9c9d6df52616b1e2022 -->
+
+
+/////////////////////////// Multiple CSS ///////////////////////////
+import multiple css
+https://stackoverflow.com/questions/33999861/how-to-combine-multiple-css-into-one
+@import url("style.css");
+@import url("css/responsive.css");
+@import url("css/custom.css");
+@import url("css/fonts.css");
+@import url("css/jquery-ui.css");
+
+<link href="main.css" rel=stylesheet>
+<link rel="shortcut icon" href="">
